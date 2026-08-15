@@ -37,9 +37,14 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 ## Array
 |  |
 | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ishikamidha/dsa-journey-java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/ishikamidha/dsa-journey-java/tree/master/1672-richest-customer-wealth) |
 ## Matrix
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/ishikamidha/dsa-journey-java/tree/master/1672-richest-customer-wealth) |
+## Math
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ishikamidha/dsa-journey-java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
