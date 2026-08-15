@@ -31,3 +31,15 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 - LeetCode: https://leetcode.com/ishikamidha
 - Codeforces: https://codeforces.com/profile/ishikamidha24
 - LinkedIn: https://www.linkedin.com/in/ishika-midha-9263b437b/
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/ishikamidha/dsa-journey-java/tree/master/1672-richest-customer-wealth) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/ishikamidha/dsa-journey-java/tree/master/1672-richest-customer-wealth) |
+<!---LeetCode Topics End-->
