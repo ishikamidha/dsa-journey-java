@@ -40,6 +40,7 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 | [0001-two-sum](https://github.com/ishikamidha/dsa-journey-java/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ishikamidha/dsa-journey-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ishikamidha/dsa-journey-java/tree/master/0027-remove-element) |
+| [0162-find-peak-element](https://github.com/ishikamidha/dsa-journey-java/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ishikamidha/dsa-journey-java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ishikamidha/dsa-journey-java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ishikamidha/dsa-journey-java/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -71,6 +72,7 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/ishikamidha/dsa-journey-java/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ishikamidha/dsa-journey-java/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
