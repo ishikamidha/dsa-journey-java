@@ -59,6 +59,7 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 | ------- |
 | [0013-roman-to-integer](https://github.com/ishikamidha/dsa-journey-java/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ishikamidha/dsa-journey-java/tree/master/0048-rotate-image) |
+| [0171-excel-sheet-column-number](https://github.com/ishikamidha/dsa-journey-java/tree/master/0171-excel-sheet-column-number) |
 | [0223-rectangle-area](https://github.com/ishikamidha/dsa-journey-java/tree/master/0223-rectangle-area) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ishikamidha/dsa-journey-java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
@@ -75,6 +76,7 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 | [0013-roman-to-integer](https://github.com/ishikamidha/dsa-journey-java/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ishikamidha/dsa-journey-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/ishikamidha/dsa-journey-java/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/ishikamidha/dsa-journey-java/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/ishikamidha/dsa-journey-java/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
