@@ -41,6 +41,7 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ishikamidha/dsa-journey-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ishikamidha/dsa-journey-java/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/ishikamidha/dsa-journey-java/tree/master/0048-rotate-image) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ishikamidha/dsa-journey-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/ishikamidha/dsa-journey-java/tree/master/0162-find-peak-element) |
 | [0705-design-hashset](https://github.com/ishikamidha/dsa-journey-java/tree/master/0705-design-hashset) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ishikamidha/dsa-journey-java/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -141,4 +142,8 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/ishikamidha/dsa-journey-java/tree/master/0223-rectangle-area) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ishikamidha/dsa-journey-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
