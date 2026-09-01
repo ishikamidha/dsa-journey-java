@@ -43,6 +43,7 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 | [0048-rotate-image](https://github.com/ishikamidha/dsa-journey-java/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ishikamidha/dsa-journey-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/ishikamidha/dsa-journey-java/tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/ishikamidha/dsa-journey-java/tree/master/0217-contains-duplicate) |
 | [0705-design-hashset](https://github.com/ishikamidha/dsa-journey-java/tree/master/0705-design-hashset) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ishikamidha/dsa-journey-java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/ishikamidha/dsa-journey-java/tree/master/1095-find-in-mountain-array) |
@@ -84,6 +85,7 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 | ------- |
 | [0001-two-sum](https://github.com/ishikamidha/dsa-journey-java/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ishikamidha/dsa-journey-java/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/ishikamidha/dsa-journey-java/tree/master/0217-contains-duplicate) |
 | [0705-design-hashset](https://github.com/ishikamidha/dsa-journey-java/tree/master/0705-design-hashset) |
 ## Binary Search
 |  |
@@ -146,4 +148,8 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ishikamidha/dsa-journey-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/ishikamidha/dsa-journey-java/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
