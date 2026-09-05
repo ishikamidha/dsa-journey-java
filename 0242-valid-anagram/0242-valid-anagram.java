@@ -4,21 +4,26 @@ class Solution {
         if(s.length() != t.length()){
             return false;
         }
-        else{
-        char[] s_array = s.toCharArray();
-        char[] t_array = t.toCharArray();
+        boolean[] used = new boolean[t.length()];
 
-        Arrays.sort(s_array);
-        Arrays.sort(t_array);
-        
-        if(Arrays.equals(s_array,t_array)){
-            return true;
-        }else{
-            return false;
+        for(int i=0;i< s.length();i++){
+               char charS = s.charAt(i);
+               boolean matched = false;
+
+               for(int j=0;j<t.length();j++){
+                if(!used[j] && t.charAt(j)==charS){
+                    used[j] = true;
+                    matched =  true;
+                    break;
+                }
+               }
+               if(!matched){
+                return false;
+               }
         }
+        return true;
+
+
         
-
-
-        }
     }
 }
