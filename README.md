@@ -43,6 +43,7 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 | [0048-rotate-image](https://github.com/ishikamidha/dsa-journey-java/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ishikamidha/dsa-journey-java/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ishikamidha/dsa-journey-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ishikamidha/dsa-journey-java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/ishikamidha/dsa-journey-java/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishikamidha/dsa-journey-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/ishikamidha/dsa-journey-java/tree/master/0217-contains-duplicate) |
@@ -157,6 +158,7 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 | ------- |
 | [0053-maximum-subarray](https://github.com/ishikamidha/dsa-journey-java/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ishikamidha/dsa-journey-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ishikamidha/dsa-journey-java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -166,4 +168,8 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ishikamidha/dsa-journey-java/tree/master/0053-maximum-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ishikamidha/dsa-journey-java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
