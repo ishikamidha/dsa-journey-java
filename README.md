@@ -79,6 +79,7 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishikamidha/dsa-journey-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ishikamidha/dsa-journey-java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ishikamidha/dsa-journey-java/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/ishikamidha/dsa-journey-java/tree/master/0844-backspace-string-compare) |
 ## String
 |  |
 | ------- |
@@ -89,6 +90,7 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 | [0171-excel-sheet-column-number](https://github.com/ishikamidha/dsa-journey-java/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/ishikamidha/dsa-journey-java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ishikamidha/dsa-journey-java/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/ishikamidha/dsa-journey-java/tree/master/0844-backspace-string-compare) |
 ## Hash Table
 |  |
 | ------- |
@@ -137,6 +139,7 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/ishikamidha/dsa-journey-java/tree/master/0844-backspace-string-compare) |
 | [1603-design-parking-system](https://github.com/ishikamidha/dsa-journey-java/tree/master/1603-design-parking-system) |
 | [1929-concatenation-of-array](https://github.com/ishikamidha/dsa-journey-java/tree/master/1929-concatenation-of-array) |
 ## Counting
@@ -174,4 +177,8 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ishikamidha/dsa-journey-java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/ishikamidha/dsa-journey-java/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
