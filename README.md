@@ -100,6 +100,7 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 | [0013-roman-to-integer](https://github.com/ishikamidha/dsa-journey-java/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/ishikamidha/dsa-journey-java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ishikamidha/dsa-journey-java/tree/master/0242-valid-anagram) |
+| [0355-design-twitter](https://github.com/ishikamidha/dsa-journey-java/tree/master/0355-design-twitter) |
 | [0705-design-hashset](https://github.com/ishikamidha/dsa-journey-java/tree/master/0705-design-hashset) |
 ## Binary Search
 |  |
@@ -136,6 +137,7 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 ## Design
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/ishikamidha/dsa-journey-java/tree/master/0355-design-twitter) |
 | [0705-design-hashset](https://github.com/ishikamidha/dsa-journey-java/tree/master/0705-design-hashset) |
 | [1603-design-parking-system](https://github.com/ishikamidha/dsa-journey-java/tree/master/1603-design-parking-system) |
 ## Simulation
@@ -151,6 +153,7 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 ## Linked List
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/ishikamidha/dsa-journey-java/tree/master/0355-design-twitter) |
 | [0705-design-hashset](https://github.com/ishikamidha/dsa-journey-java/tree/master/0705-design-hashset) |
 ## Hash Function
 |  |
@@ -188,4 +191,8 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ishikamidha/dsa-journey-java/tree/master/0020-valid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/ishikamidha/dsa-journey-java/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
