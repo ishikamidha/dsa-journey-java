@@ -70,6 +70,7 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 | [0171-excel-sheet-column-number](https://github.com/ishikamidha/dsa-journey-java/tree/master/0171-excel-sheet-column-number) |
 | [0223-rectangle-area](https://github.com/ishikamidha/dsa-journey-java/tree/master/0223-rectangle-area) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ishikamidha/dsa-journey-java/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ishikamidha/dsa-journey-java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -198,4 +199,8 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/ishikamidha/dsa-journey-java/tree/master/0355-design-twitter) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ishikamidha/dsa-journey-java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
