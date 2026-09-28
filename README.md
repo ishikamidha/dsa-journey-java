@@ -96,6 +96,7 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 | [0242-valid-anagram](https://github.com/ishikamidha/dsa-journey-java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ishikamidha/dsa-journey-java/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/ishikamidha/dsa-journey-java/tree/master/0844-backspace-string-compare) |
+| [1396-design-underground-system](https://github.com/ishikamidha/dsa-journey-java/tree/master/1396-design-underground-system) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +106,7 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 | [0242-valid-anagram](https://github.com/ishikamidha/dsa-journey-java/tree/master/0242-valid-anagram) |
 | [0355-design-twitter](https://github.com/ishikamidha/dsa-journey-java/tree/master/0355-design-twitter) |
 | [0705-design-hashset](https://github.com/ishikamidha/dsa-journey-java/tree/master/0705-design-hashset) |
+| [1396-design-underground-system](https://github.com/ishikamidha/dsa-journey-java/tree/master/1396-design-underground-system) |
 ## Binary Search
 |  |
 | ------- |
@@ -142,6 +144,7 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 | ------- |
 | [0355-design-twitter](https://github.com/ishikamidha/dsa-journey-java/tree/master/0355-design-twitter) |
 | [0705-design-hashset](https://github.com/ishikamidha/dsa-journey-java/tree/master/0705-design-hashset) |
+| [1396-design-underground-system](https://github.com/ishikamidha/dsa-journey-java/tree/master/1396-design-underground-system) |
 | [1603-design-parking-system](https://github.com/ishikamidha/dsa-journey-java/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
