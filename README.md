@@ -95,6 +95,7 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 | [0171-excel-sheet-column-number](https://github.com/ishikamidha/dsa-journey-java/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/ishikamidha/dsa-journey-java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ishikamidha/dsa-journey-java/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/ishikamidha/dsa-journey-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/ishikamidha/dsa-journey-java/tree/master/0844-backspace-string-compare) |
 | [1396-design-underground-system](https://github.com/ishikamidha/dsa-journey-java/tree/master/1396-design-underground-system) |
 ## Hash Table
@@ -105,6 +106,7 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 | [0217-contains-duplicate](https://github.com/ishikamidha/dsa-journey-java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ishikamidha/dsa-journey-java/tree/master/0242-valid-anagram) |
 | [0355-design-twitter](https://github.com/ishikamidha/dsa-journey-java/tree/master/0355-design-twitter) |
+| [0387-first-unique-character-in-a-string](https://github.com/ishikamidha/dsa-journey-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0705-design-hashset](https://github.com/ishikamidha/dsa-journey-java/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/ishikamidha/dsa-journey-java/tree/master/1396-design-underground-system) |
 ## Binary Search
@@ -155,6 +157,7 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ishikamidha/dsa-journey-java/tree/master/0387-first-unique-character-in-a-string) |
 | [1603-design-parking-system](https://github.com/ishikamidha/dsa-journey-java/tree/master/1603-design-parking-system) |
 ## Linked List
 |  |
@@ -206,4 +209,8 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ishikamidha/dsa-journey-java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ishikamidha/dsa-journey-java/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
