@@ -74,6 +74,7 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ishikamidha/dsa-journey-java/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ishikamidha/dsa-journey-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ishikamidha/dsa-journey-java/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ishikamidha/dsa-journey-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -86,6 +87,7 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ishikamidha/dsa-journey-java/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/ishikamidha/dsa-journey-java/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/ishikamidha/dsa-journey-java/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ishikamidha/dsa-journey-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -175,6 +177,7 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ishikamidha/dsa-journey-java/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/ishikamidha/dsa-journey-java/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ishikamidha/dsa-journey-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ishikamidha/dsa-journey-java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -213,4 +216,8 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ishikamidha/dsa-journey-java/tree/master/0387-first-unique-character-in-a-string) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ishikamidha/dsa-journey-java/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
