@@ -79,6 +79,7 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 | [0027-remove-element](https://github.com/ishikamidha/dsa-journey-java/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ishikamidha/dsa-journey-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/ishikamidha/dsa-journey-java/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/ishikamidha/dsa-journey-java/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/ishikamidha/dsa-journey-java/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishikamidha/dsa-journey-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ishikamidha/dsa-journey-java/tree/master/0283-move-zeroes) |
@@ -105,6 +106,7 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 | ------- |
 | [0001-two-sum](https://github.com/ishikamidha/dsa-journey-java/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ishikamidha/dsa-journey-java/tree/master/0013-roman-to-integer) |
+| [0141-linked-list-cycle](https://github.com/ishikamidha/dsa-journey-java/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/ishikamidha/dsa-journey-java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ishikamidha/dsa-journey-java/tree/master/0242-valid-anagram) |
 | [0355-design-twitter](https://github.com/ishikamidha/dsa-journey-java/tree/master/0355-design-twitter) |
@@ -164,6 +166,7 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/ishikamidha/dsa-journey-java/tree/master/0141-linked-list-cycle) |
 | [0355-design-twitter](https://github.com/ishikamidha/dsa-journey-java/tree/master/0355-design-twitter) |
 | [0705-design-hashset](https://github.com/ishikamidha/dsa-journey-java/tree/master/0705-design-hashset) |
 ## Hash Function
@@ -220,4 +223,8 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ishikamidha/dsa-journey-java/tree/master/0005-longest-palindromic-substring) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ishikamidha/dsa-journey-java/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
