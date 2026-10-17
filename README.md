@@ -49,6 +49,7 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishikamidha/dsa-journey-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/ishikamidha/dsa-journey-java/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ishikamidha/dsa-journey-java/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/ishikamidha/dsa-journey-java/tree/master/0485-max-consecutive-ones) |
 | [0705-design-hashset](https://github.com/ishikamidha/dsa-journey-java/tree/master/0705-design-hashset) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ishikamidha/dsa-journey-java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/ishikamidha/dsa-journey-java/tree/master/1095-find-in-mountain-array) |
