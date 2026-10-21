@@ -47,6 +47,7 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 | [0150-evaluate-reverse-polish-notation](https://github.com/ishikamidha/dsa-journey-java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/ishikamidha/dsa-journey-java/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishikamidha/dsa-journey-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/ishikamidha/dsa-journey-java/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ishikamidha/dsa-journey-java/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ishikamidha/dsa-journey-java/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ishikamidha/dsa-journey-java/tree/master/0485-max-consecutive-ones) |
@@ -69,6 +70,7 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 | [0048-rotate-image](https://github.com/ishikamidha/dsa-journey-java/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ishikamidha/dsa-journey-java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/ishikamidha/dsa-journey-java/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/ishikamidha/dsa-journey-java/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/ishikamidha/dsa-journey-java/tree/master/0223-rectangle-area) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ishikamidha/dsa-journey-java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ishikamidha/dsa-journey-java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -83,6 +85,7 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 | [0141-linked-list-cycle](https://github.com/ishikamidha/dsa-journey-java/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/ishikamidha/dsa-journey-java/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishikamidha/dsa-journey-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/ishikamidha/dsa-journey-java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ishikamidha/dsa-journey-java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ishikamidha/dsa-journey-java/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/ishikamidha/dsa-journey-java/tree/master/0844-backspace-string-compare) |
