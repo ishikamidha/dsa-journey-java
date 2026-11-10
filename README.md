@@ -171,6 +171,7 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ishikamidha/dsa-journey-java/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/ishikamidha/dsa-journey-java/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/ishikamidha/dsa-journey-java/tree/master/0355-design-twitter) |
 | [0705-design-hashset](https://github.com/ishikamidha/dsa-journey-java/tree/master/0705-design-hashset) |
 ## Hash Function
@@ -231,4 +232,8 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ishikamidha/dsa-journey-java/tree/master/0141-linked-list-cycle) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ishikamidha/dsa-journey-java/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
