@@ -170,6 +170,7 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ishikamidha/dsa-journey-java/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/ishikamidha/dsa-journey-java/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/ishikamidha/dsa-journey-java/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/ishikamidha/dsa-journey-java/tree/master/0355-design-twitter) |
@@ -235,5 +236,6 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ishikamidha/dsa-journey-java/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/ishikamidha/dsa-journey-java/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
