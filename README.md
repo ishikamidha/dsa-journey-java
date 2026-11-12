@@ -89,6 +89,7 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 | [0283-move-zeroes](https://github.com/ishikamidha/dsa-journey-java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ishikamidha/dsa-journey-java/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/ishikamidha/dsa-journey-java/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/ishikamidha/dsa-journey-java/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -175,6 +176,7 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 | [0206-reverse-linked-list](https://github.com/ishikamidha/dsa-journey-java/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/ishikamidha/dsa-journey-java/tree/master/0355-design-twitter) |
 | [0705-design-hashset](https://github.com/ishikamidha/dsa-journey-java/tree/master/0705-design-hashset) |
+| [0876-middle-of-the-linked-list](https://github.com/ishikamidha/dsa-journey-java/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Function
 |  |
 | ------- |
