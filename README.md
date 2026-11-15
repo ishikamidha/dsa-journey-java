@@ -155,6 +155,7 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 | ------- |
 | [0355-design-twitter](https://github.com/ishikamidha/dsa-journey-java/tree/master/0355-design-twitter) |
 | [0705-design-hashset](https://github.com/ishikamidha/dsa-journey-java/tree/master/0705-design-hashset) |
+| [0707-design-linked-list](https://github.com/ishikamidha/dsa-journey-java/tree/master/0707-design-linked-list) |
 | [1396-design-underground-system](https://github.com/ishikamidha/dsa-journey-java/tree/master/1396-design-underground-system) |
 | [1603-design-parking-system](https://github.com/ishikamidha/dsa-journey-java/tree/master/1603-design-parking-system) |
 ## Simulation
@@ -176,6 +177,7 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 | [0206-reverse-linked-list](https://github.com/ishikamidha/dsa-journey-java/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/ishikamidha/dsa-journey-java/tree/master/0355-design-twitter) |
 | [0705-design-hashset](https://github.com/ishikamidha/dsa-journey-java/tree/master/0705-design-hashset) |
+| [0707-design-linked-list](https://github.com/ishikamidha/dsa-journey-java/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ishikamidha/dsa-journey-java/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Function
 |  |
