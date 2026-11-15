@@ -72,6 +72,7 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 | [0171-excel-sheet-column-number](https://github.com/ishikamidha/dsa-journey-java/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/ishikamidha/dsa-journey-java/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/ishikamidha/dsa-journey-java/tree/master/0223-rectangle-area) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ishikamidha/dsa-journey-java/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ishikamidha/dsa-journey-java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ishikamidha/dsa-journey-java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Two Pointers
@@ -179,6 +180,7 @@ Solutions are auto-pushed here via [LeetHub](https://github.com/arunbhardwaj/Lee
 | [0705-design-hashset](https://github.com/ishikamidha/dsa-journey-java/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/ishikamidha/dsa-journey-java/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ishikamidha/dsa-journey-java/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ishikamidha/dsa-journey-java/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Hash Function
 |  |
 | ------- |
